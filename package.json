@@ -1,0 +1,23 @@
+{
+  "name": "mongodbproject",
+  "version": "1.0.0",
+  "description": "full stack mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikahwaji/MongoDBProject.git"
+  },
+  "keywords": [
+    "alpha",
+    "version"
+  ],
+  "author": "Ali Kahwaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alikahwaji/MongoDBProject/issues"
+  },
+  "homepage": "https://github.com/alikahwaji/MongoDBProject#readme"
+}
